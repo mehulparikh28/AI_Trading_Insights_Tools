@@ -100,7 +100,7 @@ Located in `/backend/utils/`:
 
 ## 🌐 Live Demo (Optional)
 
-Coming Soon: [ai-trading-insights.vercel.app](#)
+Link : [https://ai-trading-insight-tool.vercel.app/]
 
 ---
 
