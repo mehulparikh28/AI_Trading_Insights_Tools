@@ -102,9 +102,3 @@ Located in `/backend/utils/`:
 
 Link : [https://ai-trading-insight-tool.vercel.app/]
 
----
-
-## 📄 License
-
-MIT License.
-Feel free to fork, contribute, and build upon this project.
