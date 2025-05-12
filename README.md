@@ -101,4 +101,3 @@ Located in `/backend/utils/`:
 ## 🌐 Live Demo (Optional)
 
 Link : [https://ai-trading-insight-tool.vercel.app/]
-
